@@ -1,0 +1,27 @@
+body{background-image: url(background.jpg);
+     background-size: 1400px;}
+img{width: 200px;}
+.container{color: white;
+           background-color: #00000050;
+           }
+header{text-align: center;}
+header>div{color: #00ff00;}
+nav{text-align: center;
+    background-color: #00ff00;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300PX;}
+main{margin-left: 300px;}
+.gino{display: inline-block;}
+.mike{display: inline-block;}
+.fede{display: inline-block;}
+h2{display: inline-block;}
+#gino{height: 10px;
+      margin-right: 800px;
+      background-color: orange;}
+#mike{height: 10px;
+      margin-right: 700px;
+      background-color: green;}
+#fede{height: 10px;
+      margin-right: 900px;
+      background-color: red;}
